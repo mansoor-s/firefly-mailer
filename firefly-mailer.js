@@ -1,5 +1,5 @@
 /*
-    Firefly - Node.js CMS
+    Firefly-Mailer - Mail service for Firefly 
     Copyright (C) <2012>  <Mansoor Sayed>
 
     This program is free software: you can redistribute it and/or modify
