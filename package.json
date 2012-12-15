@@ -1,0 +1,17 @@
+{ 
+    "name": "firefly-mailer",
+    "description": "Mail service for Firefly",
+    "version": "0.0.1",
+    "url": "https://github.com/mansoor-s/firefly-mailer",
+    "author": "Mansoor Sayed <mansoor@mansoorsayed.com>",
+    "engines": ["node >= 0.8.7"],
+    "main": "firefly-mailer.js",
+    "dependencies": {
+        "nodemailer": "latest"
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "git@github.com:mansoor-s/firefly-mailer.git"
+    }
+}
+
